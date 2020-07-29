@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061457421737",
+    "firebase_url": "https://todoet-31d36.firebaseio.com",
+    "project_id": "todoet-31d36",
+    "storage_bucket": "todoet-31d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061457421737:android:867d03530be3a97016d0b8",
+        "android_client_info": {
+          "package_name": "com.example.todoet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061457421737-2v3eph3t2l16b9lqr9ikfekfp7996phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQVM8XnEBQ0hFR-ou5h92BF2x2jOpt1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061457421737-2v3eph3t2l16b9lqr9ikfekfp7996phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
